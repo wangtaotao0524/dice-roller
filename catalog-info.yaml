@@ -10,6 +10,7 @@ metadata:
     "backstage.io/kubernetes-namespace": default
     "argocd/app-name": dice-roller
     github.com/project-slug: 'wangtaotao0524/dice-roller'
+    github.com/project_id: 'wangtaotao0524/dice-roller'
 spec:
   type: service
   lifecycle: production
